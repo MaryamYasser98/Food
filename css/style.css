@@ -29,6 +29,7 @@ html::-webkit-scrollbar-thumb{
     background: var(--yellow);
 }
 html{
+     scroll-behavior: smooth;
     font-size: 62.5%;
     overflow-x: hidden;
 }
